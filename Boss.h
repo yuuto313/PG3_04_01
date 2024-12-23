@@ -22,7 +22,7 @@ private:
 	Vector2 pos_;
 	Vector2 scale_;
 
-	float radius_ = 30.0f;
+	float radius_ = 20.0f;
 
 };
 
